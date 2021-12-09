@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "type": "Personal",
+        "color": "pricing-card pricing-primary",
+        "amount": "18",
+        "description": "Gravida arcu ac tortor dignissim convallis aenean, Gravida arcu ac tortor dignissim convallis aenean, Gravida arcu ac tortor dignissim",
+        "link": "https://www.google.com"
+    },
+    {
+        "id": 2,
+        "type": "Profesional",
+        "color": "pricing-card pricing-info",
+        "amount": "28",
+        "description": "Gravida arcu ac tortor dignissim convallis aenean, Gravida arcu ac tortor dignissim convallis aenean, Gravida arcu ac tortor dignissim, Gravida arcu ac tortor dignissim convallis aenean",
+        "link": "https://www.ndtv.com"
+    },
+    {
+        "id": 3,
+        "type": "Business",
+        "color": "pricing-card pricing-secondary",
+        "amount": "48",
+        "description": "Gravida arcu ac tortor dignissim convallis aenean, Gravida arcu ac tortor dignissim convallis aenean, Gravida arcu ac tortor dignissim, Gravida arcu ac tortor dignissim convallis aenean, Gravida arcu ac tortor dignissim",
+        "link": "https://www.thenagesh.com"
+    }    
+]
